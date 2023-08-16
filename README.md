@@ -1,9 +1,6 @@
-### Hello there, I'm Lam 👋
+## Hello there, I'm Lam 👋
 
 <!--
-**lam-tu-tr/lam-tu-tr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,25 +8,26 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###A bit about me
 ```javascript
-const justin = {
-  pronouns: "he" | "him",
-  code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
-  frameworks: [React, Redux, Next, Sails, Angular, Node, Vue],
-  tools: [MonngoDB, Express, AWS (Amplify, SageMaker, EC2, DynamoDB), Kubernetes, Docker, Flutter, Jupyter, Codespaces, Figma],
-  interests: ["full stack web development", "aerospace and space tech", "machine learning"],
-  techCommunities: [{
-                     orgnanization: "Space Technologies at Cal",
-                     role: "External Vice President" 
-                    }, {
-                     orgnanization: "Web Development at Berkeley",
-                     role: "External Vice President and Co-Founder"
-                    }],
-  locations: ["Berkeley", "Seattle", "Irvine"],
-  hobbies: ["Bouldering", "Guitar", "Traveling"],
-  favoriteArtists: ["Keshi", "Jeremy Zucker", "LANY", "Rich Brian", "Joji"]
+let Lam = {
+  code: [JavaScript, TypeScript, HTML, CSS],
+  technologies: [React, NextJS, TailwindCSS, Prisma, Linux, Figma, Mapbox],
+  interests: "Front End Web Development",
+  locations: ["Bay Area", "San Jose", "San Diego"],
+  hobbies: ["Guitar", "Photography", "Hiking", "Webtoons"],
+  languages: {
+    English: "fluent",
+    Vietnamese: "fluent",
+    Mandarin: "beginner learning"
+  }
 }
 ```
+
+> I graduated from UC San Diego in 2022 with a B.S. in Electrical Engineering and had been 
+  working part time as an Electrical Engineering Intern at Ametek Programmable Power in San Diego.
+> After work, I have been studying Front End Web Development out of interest with hope of turning
+  this new found passion into a career.
