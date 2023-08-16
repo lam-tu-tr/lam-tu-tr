@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-```
+```javascript
 const justin = {
   pronouns: "he" | "him",
   code: [JavaScript, TypeScript, HTML, CSS/SCSS, Python, Java, C, GoLang, Dart],
