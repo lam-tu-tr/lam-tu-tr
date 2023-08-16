@@ -1,6 +1,7 @@
 ## Hello there, I'm Lam 👋
 
-[![Linkedin: lam-t-tran](https://img.shields.io/badge/-lam-t-tran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lam-t-tran/)](https://www.linkedin.com/in/lam-t-tran/)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flam-t-tran%2F)
+
 
 ### A bit about me
 ```javascript
