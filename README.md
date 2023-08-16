@@ -1,6 +1,5 @@
 ## Hello there, I'm Lam 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flam-t-tran%2F)
 
 
 ### A bit about me
