@@ -9,7 +9,7 @@ let Lam = {
   technologies: [React, NextJS, TailwindCSS, Prisma, Linux, Figma, Mapbox],
   interests: "Front End Web Development",
   locations: ["Bay Area", "San Jose", "San Diego"],
-  hobbies: ["Guitar", "Photography", "Hiking", "Webtoons"],
+  hobbies: ["Guitar", "Singing", "Photography", "Hiking", "Webtoons"],
   languages: {
     English: "fluent",
     Vietnamese: "fluent",
