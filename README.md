@@ -17,9 +17,3 @@ let Lam = {
   }
 }
 ```
-
-> I graduated from UC San Diego in 2022 with a B.S. in Electrical Engineering and had been 
-  working part time as an Electrical Engineering Intern at Ametek Programmable Power in San Diego.
-
-> After work, I have been studying Front End Web Development out of interest with hope of turning
-  this new found passion into a career.
